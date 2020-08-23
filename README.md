@@ -40,5 +40,14 @@ Improving Traffic Prediction with Navigation Data<br>
 论文链接：https://arxiv.org/pdf/2006.11483.pdf <br>
 分享人: 冯德帆  [PPT](/ppt/Predicting%20Temporal%20Sets%20with%20Deep%20Neural%20Networks.ppt)
 
+#### 7月24日<br>
+1.Hierarchical Graph Representation Learning with Differentiable Pooling<br>
+作者：Rex Ying, Jiaxuan You, Christopher Morris <br>
+论文链接：https://arxiv.org/pdf/1806.08804.pdf <br>
+分享人： 邓锦亮 [PPT](/ppt/Graph%20Representation%20Learning.pptx)
 
+2.InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization
+作者：Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang <br>
+论文链接：https://arxiv.org/pdf/1908.01000.pdf <br>
+分享人： 邓锦亮 [PPT](/ppt/Graph%20Representation%20Learning.pptx)
 
