@@ -21,7 +21,7 @@
 1.AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction<br>
 作者：Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng <br>
 论文链接：http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf <br>
-分享人： 王一卓 [PPT](/ppt/AutoST.pptx)
+分享人： 王一卓 [PPT](/ppt/0807-WYZ-AutoST.pdf)
 
 2.Spatio-Temporal Dual Graph Attention Network for query-POI <br>
 作者：Zixuan Yuan, Hao Liu, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, Hui Xiong<br>
