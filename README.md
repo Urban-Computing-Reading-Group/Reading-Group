@@ -36,7 +36,7 @@ Improving Traffic Prediction with Navigation Data<br>
 分享人： 尹渡 [PDF](/ppt/0731-yindu-HSTGCN.pdf)
 
 2.Predicting Temporal Sets with Deep Neural Networks<br>
-作者：Le Yu, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv1<br>
+作者：Le Yu, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv<br>
 论文链接：https://arxiv.org/pdf/2006.11483.pdf <br>
 分享人: 冯德帆  [PDF](/ppt/0731-fengdefan-Predicting%20Temporal%20Sets%20with%20Deep%20Neural%20Networks.pdf)
 
