@@ -33,7 +33,7 @@
 Improving Traffic Prediction with Navigation Data<br>
 作者：Rui Dai, Shenkun Xu <br>
 论文链接：https://arxiv.org/pdf/2006.12715.pdf <br>
-分享人： 尹度 [PPT](/ppt/yindu-H-STGCN-0731.pdf)
+分享人： 尹渡 [PPT](/ppt/yindu-H-STGCN-0731.pdf)
 
 2.Predicting Temporal Sets with Deep Neural Networks<br>
 作者：Le Yu, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv1<br>
