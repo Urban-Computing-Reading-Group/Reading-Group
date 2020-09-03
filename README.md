@@ -42,11 +42,15 @@ Improving Traffic Prediction with Navigation Data<br>
 
 #### 7月24日<br>
 1.Hierarchical Graph Representation Learning with Differentiable Pooling<br>
+Summary:<br>
+This work solves the problem of graph-level classification. The motivation is to iteratively perform node clustering and node pooling until a final node is left, which is then used to represent the entire graph. In each iteration, it softly assigns each node to a cluster based on the node feature, then derives the representation of each cluster as well as the connections between the clusters from the node assignment to form a high-level graph.<br>
 作者：Rex Ying, Jiaxuan You, Christopher Morris <br>
 论文链接：https://arxiv.org/pdf/1806.08804.pdf <br>
 分享人： 邓锦亮 [PDF](/ppt/0724-dengjinliang-Graph%20Representatio%20Learning.pdf)
 
 2.InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization<br>
+Summary:<br>
+This work solves the problem of unsupervised graph-level representation learning. The motivation is to maintain the information of each subgraphs with different granularity in the representation of the entire graph. It achieves this by maximizing the mutual information between the representation of the entire graph and the representation of each subgraphs (yielded as an intermediate in the process of graph representation learning).
 作者：Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang <br>
 论文链接：https://arxiv.org/pdf/1908.01000.pdf <br>
 分享人： 邓锦亮 [PDF](/ppt/0724-dengjinliang-Graph%20Representatio%20Learning.pdf)
