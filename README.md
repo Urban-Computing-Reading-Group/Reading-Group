@@ -1,5 +1,28 @@
 # Reading Group 分享
 
+#### 9月4日<br>
+1.AM-GCN: Adaptive Multi-channel Graph Convolutional Network<br>
+
+**Summary:**<br>
+
+  *The capability of the state-of-the-art GCNs in fusing node features and topological structures is distant from optimal or even satisfactory. The weakness may severely hinder the capability of GCNs in some classification tasks, since GCNs may not be able to adaptively learn some deep correlation information between topological structures and node features. The paper proposes an adaptive multi-channel graph convolutional networks for semi-supervised classification (AM-GCN). The central idea is that the model extracts the specific and common embeddings from node features, topological structures, and their combinations simultaneously, and uses the attention mechanism to learn adaptive importance weights of the embeddings.*
+
+作者： Xiao Wang; Meiqi Zhu; Deyu Bo; Peng Cui; Chuan Shi; Jian Pei<br>
+论文链接 https://arxiv.org/abs/2007.02265<br>
+分享人：邓婕文[PPT](/ppt/邓婕文-ReadingGroup-20200904.pptx)
+
+2.Doing in One Go: Delivery Time Inference
+Based on Couriers’ Trajectories<br>
+
+**Summary:**<br>
+
+  *The paper aims to reduce couriers' burden by inferring the delivery time of each waybill based on couriers's trajectory and historical data. They come up with DTinf model consisting of three components:  Data Pre-processing, first components, is response for data cleaning, indentifying stay point and seperating waybills. Then the next part-Delivery Location Correction-will correct the Geocoded waybill location to an more believable and reasonable delivery location.  The last part, Delivery Event-based Matching, use corrected location and infer the most possible stay point arounding each corrected location. And the time of each stay point become the delivery time of each waybill.*
+
+作者： Sijie Ruan, Zi Xiong<br>
+论文链接 http://urban-computing.com/pdf/KDD2020%20Delivery%20Time.pdf<br>
+分享人：江亦凡[PPT](/ppt/reading_group_9.4.江亦凡.pptx)
+
+
 #### 8月21日<br>
 1.NCF: A Neural Context Fusion Approach to Raw Mobility Annotation <br>
 作者：Renjun Hu, Jingbo Zhou, Xinjiang Lu, Hengshu Zhu, Shuai Ma, and Hui Xiong <br>
@@ -69,15 +92,36 @@ Improving Traffic Prediction with Navigation Data<br>
 论文链接：https://arxiv.org/pdf/1908.01000.pdf <br>
 分享人： 邓锦亮 [PPT](/ppt/Graph%20Representation%20Learning.pptx)
 
+#### 6月24日<br>
+1.Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning<br>
+
+**Summary:**<br>
+*The paper proposes a Multitask Deep Learning (MDL) framework for simultaneously predicting in/out flows (node flow) and transitions (edge flow) in a spatio-temporal network. MDL can not only handle the complexity and scale problem in the prediction, but also mutually reinforce the prediction of each type of flow. In addition, MDL is capable of capturing the spatial correlations (near and distant), temporal correlations (closeness, period, trend), and external factors (like events and weather).*<br>
+
+作者：Rex Ying, Jiaxuan You, Christopher Morris <br>
+论文链接：： https://ieeexplore.ieee.org/document/8606218 <br>
+分享人： 邓婕文 [PPT](/ppt/邓婕文-ReadingGroup-20200624.pptx)
 
 #### 6月15日<br>
 1.Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction<br>
 
 **Summary:**<br>
-*This work solves the problem of forecasting the flow of crowds in each and every region of a city. The motivation is that this problem is of great importance to traffic management and public safety. It achieves this by convolution-based residual networks to model nearby and distant spatial dependencies between any two regions in a city.*<br>
+*This work solves the probl
+em of forecasting the flow of crowds in each and every region of a city. The motivation is that this problem is of great importance to traffic management and public safety. It achieves this by convolution-based residual networks to model nearby and distant spatial dependencies between any two regions in a city.*<br>
 
 作者：Junbo Zhang, Yu Zheng, Dekang Qi<br>
 论文链接：https://arxiv.org/pdf/1610.00081v2.pdf <br>
 分享人： 蔡泽坤 [PPT](/ppt/Zekun_Cai_20200605.pptx)
+
+#### 6月12日<br>
+1.Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction<br>
+
+**Summary:**<br>
+*Traditional demand prediction methods mostly rely on time series forecasting techniques, which fail to model the complex  non-linear spatial and temporal relations. The Deep Multi-View Spatial-Temporal Network (DMVST-Net) framework models both spatial and temporal relations. Specifically, the model consists of three views: temporal view (modeling correlations between future demand values with near time points via LSTM), spatial view (modeling local spatial correlation via local CNN), and semantic view (modeling correlations among regions sharing similar temporal patterns).*<br>
+
+作者：Huaxiu Yao, Fei Wu, Jintao Ke, Xianfeng Tang, Yitian Jia, Siyu Lu, Pinghua Gong, Jieping Ye, Zhenhui Li<br>
+论文链接：https://arxiv.org/abs/1802.08714<br>
+分享人： 邓婕文 [PPT](/ppt/邓婕文-ReadingGroup-20200612.pptx)
+
 
 
