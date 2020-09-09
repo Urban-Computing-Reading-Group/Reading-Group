@@ -52,6 +52,10 @@ Based on Couriers’ Trajectories<br>
 
 #### 8月7日<br>
 1.AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction<br>
+
+**Summary:**<br>
+*This work solves the problem of finding the optimal neural architecture at various scenarios in cities. The motivation is that different cities may have different spatial ranges preference while the size of convolution kernel is usually fixed and empirically set, besides, the current approaches fail to fuse the low- and high-level features. The authors proposed a model named AutoST which are mainly composed of the ST-NASNet, they aim to design search space in ST-NASNet to improve the network representation ability. The search space including two basic modules: the mix convolution block and the mix skip connection block.*<br>
+
 作者：Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng <br>
 论文链接：http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf <br>
 分享人： 王一卓 [PPT](/ppt/AutoST.pptx)
