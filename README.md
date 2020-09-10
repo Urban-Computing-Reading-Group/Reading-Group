@@ -77,6 +77,8 @@ Improving Traffic Prediction with Navigation Data<br>
 分享人： 尹度 [PPT](/ppt/yindu-H-STGCN-0731.pdf)
 
 2.Predicting Temporal Sets with Deep Neural Networks<br>
+**Summary:**<br>
+*This article mainly studies the prediction of time sets (a collection of elements with timestamps, where there are interconnections between elements). The author mainly tested the shopping data (Taobao, TaFeng, etc.) in the article. By combining GCN, attention-based temporal dependency learning module, and gated information fusing module, the loss of information in time set prediction is effectively avoided.*<br>
 作者：Le Yu, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv1<br>
 论文链接：https://arxiv.org/pdf/2006.11483.pdf <br>
 分享人: 冯德帆  [PPT](/ppt/Predicting%20Temporal%20Sets%20with%20Deep%20Neural%20Networks.ppt)
