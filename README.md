@@ -61,6 +61,10 @@ Based on Couriers’ Trajectories<br>
 分享人： 王一卓 [PPT](/ppt/AutoST.pptx)
 
 2.Spatio-Temporal Dual Graph Attention Network for query-POI <br>
+
+**Summary:**<br>
+*This paper focuses on the influence of temporal and spatial relationships and user preferences on POI-matching.The auther develop a spatio-temporal dual graph attention network (STDGAT), which can jointly model dynamic situational context and users’ sequential behaviors for intelligent query-POI matching.It first encodes the given POIname and query term with given geographic information map.The main innovation part is a network structure to collect embedding of general spatial features through a generalized network, and at the same time encode time and user preferences through a user-related network, and finally perform feature fusion and output through fusion block.*<br>
+
 作者：Zixuan Yuan, Hao Liu, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, Hui Xiong<br>
 论文链接：https://dl.acm.org/doi/pdf/10.1145/3397271.3401159 <br>
 分享人： 刘航晨 [PPT](/ppt/STDGAT.pptx)
