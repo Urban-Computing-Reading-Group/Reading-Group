@@ -9,7 +9,7 @@
 
 作者： Xiao Wang; Meiqi Zhu; Deyu Bo; Peng Cui; Chuan Shi; Jian Pei<br>
 论文链接 https://arxiv.org/abs/2007.02265<br>
-分享人：邓婕文[PPT](/ppt/邓婕文-ReadingGroup-20200904.pptx)
+分享人：邓大姐头[PPT](/ppt/邓婕文-ReadingGroup-20200904.pptx)
 
 2.Doing in One Go: Delivery Time Inference
 Based on Couriers’ Trajectories<br>
