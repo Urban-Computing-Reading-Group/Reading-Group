@@ -9,7 +9,7 @@
 
 作者： Xiao Wang; Meiqi Zhu; Deyu Bo; Peng Cui; Chuan Shi; Jian Pei<br>
 论文链接 https://arxiv.org/abs/2007.02265<br>
-分享人：邓大姐头[PPT](/ppt/邓婕文-ReadingGroup-20200904.pptx)
+分享人：邓婕文[PPT](/ppt/邓婕文-ReadingGroup-20200904.pptx)
 
 2.Doing in One Go: Delivery Time Inference
 Based on Couriers’ Trajectories<br>
@@ -74,7 +74,7 @@ Based on Couriers’ Trajectories<br>
 Improving Traffic Prediction with Navigation Data<br>
 作者：Rui Dai, Shenkun Xu <br>
 论文链接：https://arxiv.org/pdf/2006.12715.pdf <br>
-分享人： 尹度 [PPT](/ppt/yindu-H-STGCN-0731.pdf)
+分享人： 尹渡 [PPT](/ppt/yindu-H-STGCN-0731.pdf)
 
 2.Predicting Temporal Sets with Deep Neural Networks<br>
 **Summary:**<br>
@@ -106,9 +106,9 @@ Improving Traffic Prediction with Navigation Data<br>
 1.Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning<br>
 
 **Summary:**<br>
-*The paper proposes a Multitask Deep Learning (MDL) framework for simultaneously predicting in/out flows (node flow) and transitions (edge flow) in a spatio-temporal network. MDL can not only handle the complexity and scale problem in the prediction, but also mutually reinforce the prediction of each type of flow. In addition, MDL is capable of capturing the spatial correlations (near and distant), temporal correlations (closeness, period, trend), and external factors (like events and weather).*<br>
+*This work solves the problem of predicting the flows at node and on edge level. The motivation is to simultaneously predict the input/output flow and transformations in the spatio-temporal network. It achieves this by captureing the three correlation(closeness, periodic and trend) using the NODENET and EAGENET, and integrating the external factor by a fusion component.*<br>
 
-作者：Rex Ying, Jiaxuan You, Christopher Morris <br>
+作者：Junbo Zhang, Yu Zheng, Junkai Sun, Dekang Qi <br>
 论文链接：： https://ieeexplore.ieee.org/document/8606218 <br>
 分享人： 邓婕文 [PPT](/ppt/邓婕文-ReadingGroup-20200624.pptx)
 
@@ -116,8 +116,7 @@ Improving Traffic Prediction with Navigation Data<br>
 1.Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction<br>
 
 **Summary:**<br>
-*This work solves the probl
-em of forecasting the flow of crowds in each and every region of a city. The motivation is that this problem is of great importance to traffic management and public safety. It achieves this by convolution-based residual networks to model nearby and distant spatial dependencies between any two regions in a city.*<br>
+*This work solves the problem of forecasting the flow of crowds in each and every region of a city. The motivation is that this problem is of great importance to traffic management and public safety. It achieves this by convolution-based residual networks to model nearby and distant spatial dependencies between any two regions in a city.*<br>
 
 作者：Junbo Zhang, Yu Zheng, Dekang Qi<br>
 论文链接：https://arxiv.org/pdf/1610.00081v2.pdf <br>
