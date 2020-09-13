@@ -27,6 +27,10 @@ Based on Couriers’ Trajectories<br>
 1.NCF: A Neural Context Fusion Approach to Raw Mobility Annotation <br>
 作者：Renjun Hu, Jingbo Zhou, Xinjiang Lu, Hengshu Zhu, Shuai Ma, and Hui Xiong <br>
 论文链接：http://mashuai.buaa.edu.cn/pubs/tmc2020.pdf <br>
+
+**Summary:**<br>
+*This work solves the problem of obtaining better POI-based human mobility. The motivation is that most studies simply utilize POI check-ins to mine the concerned mobility patterns, the effectiveness, most of which is usually hindered, due to data sparsity.  So in this paper, the author strives to directly annotate the POIs associated with raw user-generated mobility records. They propose a neural context fusion approach, which integrates various context factors in people’s POI-visiting behaviors. And their approach incorporates an attention mechanism to deal with the randomized transitions in raw mobility. The domain knowledge factors, i.e., distance, time, and popularity. Using two real-life data sets, they demonstrate the utility of the obtained POI-based human mobility with a POI recommendation example.*<br>
+
 分享人：李永康  [PPT](/ppt/李永康NCF分享.pptx)
 
 2.Learning Stable Graphs from Multiple Environments with Selection Bias <br>
