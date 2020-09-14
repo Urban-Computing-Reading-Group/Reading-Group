@@ -9,7 +9,7 @@
 
 作者： Kang Wei, Jun Li, Ming Ding, Chuan Ma, Howard H. Yang, Farokhi Farhad, Shi Jin, Tony Q. S. Quek, H. Vincent Poor<br>
 论文链接：https://arxiv.org/pdf/1911.00222.pdf <br>
-分享人： 张恺玥[PPT](/ppt/0911-kaiyuezhang-Federated Learning With Differential Privacy.pdf)
+分享人： 张恺玥[PPT](/ppt/0911-kaiyuezhang-Federated%20Learning%20With%20Differential%20Privacy.pdf)
 
 
 #### 9月4日<br>
