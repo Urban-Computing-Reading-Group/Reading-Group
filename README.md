@@ -1,5 +1,15 @@
 # Reading Group 分享
 
+#### 9月11日<br>
+1.Federated Learning with Differential Privacy: Algorithms and Performance Analysis 
+
+**Summary:**<br>
+
+*Federated learning (FL) can preserving client's private data from being exposed. Nevertheless, information can still be divulged by the uploaded parameters from clients, e.g., weights. In this paper, based on the concept of differential privacy (DP), artificial noises are added to the parameters before aggregating. The theoretical results show that this strategy exists an optimal aggregation times and  number of participated clients. However, the evaluations also show that while the privacy is preserving, the quality of the models has declined significantly.*<br> 
+作者： Kang Wei, Jun Li, Ming Ding, Chuan Ma, Howard H. Yang, Farokhi Farhad, Shi Jin, Tony Q. S. Quek, H. Vincent Poor<br>
+论文链接：https://arxiv.org/pdf/1911.00222.pdf <br>
+分享人： 张恺玥 [PPT]()
+
 #### 9月4日<br>
 1.AM-GCN: Adaptive Multi-channel Graph Convolutional Network<br>
 
@@ -105,6 +115,15 @@ Improving Traffic Prediction with Navigation Data<br>
 作者：Fan-Yun Sun, Jordan Hoffmann, Vikas Verma, Jian Tang <br>
 论文链接：https://arxiv.org/pdf/1908.01000.pdf <br>
 分享人： 邓锦亮 [PPT](/ppt/Graph%20Representation%20Learning.pptx)
+
+#### 7月3日<br>
+COVI White Paper 
+**Summary:**<br>
+*Manual contact tracing of people infected with Covid-19 is limited while privacy-preserving machine learning can help build up useful model. COVI is a proposed APP which is aimed at alarm people who are infected or have been in contact with an infected person by inform their likely infection risk. COVI uses NHS Bluetooth + mix-nets to protect users' information from the his/her neighbor and the government, and the encounters can be detected and traced at the same time. The simulations also shows that this app can help.*<br>
+作者： Hannah Alsdurf, Yoshua Bengio, Tristan Deleu, Prateek Gupta, Daphne Ippolito, Richard Janda, Max Jarvie, Tyler Kolody, Sekoul Krastev, Tegan Maharaj, Robert Obryk, Dan Pilat, Valerie Pisano, Benjamin Prud'homme, Meng Qu, Nasim Rahaman, Irina Rish, Jean-Franois Rousseau, Abhinav Sharma, Brooke Struck, Jian Tang, Martin Weiss, Yun William Yu <br>
+论文链接：https://arxiv.org/pdf/2005.08502.pdf <br>
+分享人： 张恺玥 [PPT]()
+
 
 #### 6月24日<br>
 1.Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning<br>
