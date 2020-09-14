@@ -6,9 +6,11 @@
 **Summary:**<br>
 
 *Federated learning (FL) can preserving client's private data from being exposed. Nevertheless, information can still be divulged by the uploaded parameters from clients, e.g., weights. In this paper, based on the concept of differential privacy (DP), artificial noises are added to the parameters before aggregating. The theoretical results show that this strategy exists an optimal aggregation times and  number of participated clients. However, the evaluations also show that while the privacy is preserving, the quality of the models has declined significantly.*<br> 
+
 作者： Kang Wei, Jun Li, Ming Ding, Chuan Ma, Howard H. Yang, Farokhi Farhad, Shi Jin, Tony Q. S. Quek, H. Vincent Poor<br>
 论文链接：https://arxiv.org/pdf/1911.00222.pdf <br>
-分享人： 张恺玥 [PPT]()
+分享人： 张恺玥[PPT](/ppt/0911-kaiyuezhang-Federated Learning With Differential Privacy.pdf)
+
 
 #### 9月4日<br>
 1.AM-GCN: Adaptive Multi-channel Graph Convolutional Network<br>
@@ -52,6 +54,7 @@ Based on Couriers’ Trajectories<br>
 论文链接：https://ftp.cs.ucla.edu/pub/stat_ser/r381.pdf<br>
 分享人：蔡泽坤  [PPT](/ppt/Zekun_Cai_20200821.pptx)
 
+
 #### 8月14日<br>
 1.Stable Prediction with Model Misspecification and Agnostic Distribution Shift<br>
 
@@ -83,6 +86,7 @@ Based on Couriers’ Trajectories<br>
 论文链接：https://dl.acm.org/doi/pdf/10.1145/3397271.3401159 <br>
 分享人： 刘航晨 [PPT](/ppt/STDGAT.pptx)
 
+
 #### 7月31日<br>
 1.Hybrid Spatio-Temporal Graph Convolutional Network:
 Improving Traffic Prediction with Navigation Data<br>
@@ -96,6 +100,7 @@ Improving Traffic Prediction with Navigation Data<br>
 作者：Le Yu, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv1<br>
 论文链接：https://arxiv.org/pdf/2006.11483.pdf <br>
 分享人: 冯德帆  [PPT](/ppt/Predicting%20Temporal%20Sets%20with%20Deep%20Neural%20Networks.ppt)
+
 
 #### 7月24日<br>
 1.Hierarchical Graph Representation Learning with Differentiable Pooling<br>
@@ -116,13 +121,15 @@ Improving Traffic Prediction with Navigation Data<br>
 论文链接：https://arxiv.org/pdf/1908.01000.pdf <br>
 分享人： 邓锦亮 [PPT](/ppt/Graph%20Representation%20Learning.pptx)
 
+
 #### 7月3日<br>
 COVI White Paper 
 **Summary:**<br>
 *Manual contact tracing of people infected with Covid-19 is limited while privacy-preserving machine learning can help build up useful model. COVI is a proposed APP which is aimed at alarm people who are infected or have been in contact with an infected person by inform their likely infection risk. COVI uses NHS Bluetooth + mix-nets to protect users' information from the his/her neighbor and the government, and the encounters can be detected and traced at the same time. The simulations also shows that this app can help.*<br>
+
 作者： Hannah Alsdurf, Yoshua Bengio, Tristan Deleu, Prateek Gupta, Daphne Ippolito, Richard Janda, Max Jarvie, Tyler Kolody, Sekoul Krastev, Tegan Maharaj, Robert Obryk, Dan Pilat, Valerie Pisano, Benjamin Prud'homme, Meng Qu, Nasim Rahaman, Irina Rish, Jean-Franois Rousseau, Abhinav Sharma, Brooke Struck, Jian Tang, Martin Weiss, Yun William Yu <br>
 论文链接：https://arxiv.org/pdf/2005.08502.pdf <br>
-分享人： 张恺玥 [PPT]()
+分享人： 张恺玥 [PPT](/ppt/0703-kaiyuezhang-COVIwhitepaper.pdf)
 
 
 #### 6月24日<br>
