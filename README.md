@@ -123,7 +123,8 @@ Improving Traffic Prediction with Navigation Data<br>
 
 
 #### 7月3日<br>
-COVI White Paper <br>
+题目：COVI White Paper <br>
+
 **Summary:**<br>
 *Manual contact tracing of people infected with Covid-19 is limited while privacy-preserving machine learning can help build up useful model. COVI is a proposed APP which is aimed at alarm people who are infected or have been in contact with an infected person by inform their likely infection risk. COVI uses NHS Bluetooth + mix-nets to protect users' information from the his/her neighbor and the government, and the encounters can be detected and traced at the same time. The simulations also shows that this app can help.*<br>
 
