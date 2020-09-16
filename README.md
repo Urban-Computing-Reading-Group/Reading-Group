@@ -122,6 +122,16 @@ Based on Couriers’ Trajectories<br>
 论文链接：https://arxiv.org/pdf/1908.01000.pdf <br>
 分享人： 邓锦亮 [PPT](/ppt/Graph%20Representation%20Learning.pptx)
 
+#### 7月10日 <br>
+1. Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering <br>
+
+**Summary:**<br>
+*This work aims to generalize convolutional neural network (CNN) on low-dimensional regular grids to high-dimensional irregular domain, represented by graphs. Based on spectral graph theory, this work proposes a strictly localized and computational efficient convolution kernel by using Chebyshev Polynomials approximation. A fast pooling strategy is also proposed.*<br>
+
+作者: Michael Defferrard, Xavier Bresson, Pierre Vandergheynst<br>
+论文链接: http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf <br>
+分享人: 王肇南 [PDF](/ppt/07102020-ChebNet-NIPS16.pdf)
+
 
 #### 7月3日<br>
 题目：COVI White Paper <br>
