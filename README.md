@@ -88,8 +88,9 @@ Based on Couriers’ Trajectories<br>
 
 
 #### 7月31日<br>
-1.Hybrid Spatio-Temporal Graph Convolutional Network:
-Improving Traffic Prediction with Navigation Data<br>
+1.Hybrid Spatio-Temporal Graph Convolutional Network<br>
+**Summary:**<br>
+*In this paper, it propose a novel deep architecture for travel time forecasting, the Hybrid Spatio-Temporal Graph Convolutional Network (H-STGCN), which features the utilization of intended-trafficvolume data. We design the domain transformer to couple this heterogeneous modality of traffic volume. We propose a compound adjacency matrix to capture the innate nature of traffic proximity. Experiments carried out on real-world datasets showthat H-STGCN achieves remarkable improvement over the benchmark methods, especially for the prediction of non-recurring congestion. Finally, this architecture exemplifies a novel formalism to embed the knowledge of physics in a data-driven model, which can be readily applied to general spatio-temporal forecasting tasks.*<br>
 作者：Rui Dai, Shenkun Xu <br>
 论文链接：https://arxiv.org/pdf/2006.12715.pdf <br>
 分享人： 尹渡 [PPT](/ppt/yindu-H-STGCN-0731.pdf)
