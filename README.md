@@ -1,5 +1,16 @@
 # Reading Group 分享
 
+
+#### 9月18日 <br>
+1. Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks <br>
+
+**Summary:**<br>
+*This work proposes a conditional urban traffic estimation problem, namely estimating the posterior traffic distribution given the prior of travel demand. Considering dramatic change may take place after a big urban development, this work formulates the problem as a traffic data generation problem. Regarding travel demand as the condition, and leveraging GCN, Transformer Attention to handle spatio-temporal autocorrelations, this work proposes a model named Curb-GAN to perform the task.*<br>
+
+作者: Yingxue Zhang, Yanhua Li, Xun Zhou, Xiangnan Kong, Jun Luo <br>
+论文链接: https://dl.acm.org/doi/pdf/10.1145/3394486.3403127 <br>
+分享人: 王肇南 [PDF](/ppt/09182020-CurbGAN-KDD20.pdf)
+
 #### 9月11日<br>
 1.Federated Learning with Differential Privacy: Algorithms and Performance Analysis 
 
@@ -126,7 +137,7 @@ Based on Couriers’ Trajectories<br>
 1. Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering <br>
 
 **Summary:**<br>
-*This work aims to generalize convolutional neural network (CNN) on low-dimensional regular grids to high-dimensional irregular domain, represented by graphs. Based on spectral graph theory, this work proposes a strictly localized and computational efficient convolution kernel by using Chebyshev Polynomials approximation. A fast pooling strategy is also proposed.*<br>
+*This work aims to generalize convolutional neural network (CNN) on low-dimensional regular grids to high-dimensional irregular domain, represented by graphs. Based on spectral graph theory, this work proposes a strictly localized and computational-efficient convolution kernel by using Chebyshev Polynomials approximation. A fast pooling strategy based on Graclus graph coarsening is also proposed.*<br>
 
 作者: Michael Defferrard, Xavier Bresson, Pierre Vandergheynst<br>
 论文链接: http://papers.nips.cc/paper/6081-convolutional-neural-networks-on-graphs-with-fast-localized-spectral-filtering.pdf <br>
