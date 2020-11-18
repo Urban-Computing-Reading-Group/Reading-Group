@@ -1,6 +1,16 @@
 # Reading Group 分享
 
 
+#### 11月18日 <br>
+1. Competitive Analysis for Points of Interest <br>
+
+**Summary:**<br>
+*Given a heterogenous POI information network, this work proposes a competitive relationship prediction problem, which is by nature a link prediction problem. By leveraging the spatial and semantic (e.g. brand, aspect) attributes of POIs, this work proposes a GNN-based DeepR framwork to perform the task.*<br>
+
+作者: Shuangli Li, Jingbo Zhou, Tong Xu, Hao Liu, Xinjiang Lu, Hui Xiong <br>
+论文链接: https://bigdata.ustc.edu.cn/paper_pdf/2020/Shuangli_KDD20.pdf <br>
+分享人: 王肇南 [PDF](/ppt/11182020-POICompete-KDD20.pptx)
+
 #### 9月18日 <br>
 1. Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks <br>
 
